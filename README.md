@@ -1,6 +1,6 @@
 
-![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
-
+[![github license](https://img.shields.io/github/license/ericvera/express-firebase-authenticate.svg?style=flat-square)](https://github.com/ericvera/express-firebase-authenticate/blob/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/express-firebase-authenticate.svg?style=flat-square)](https://npmjs.org/package/xpress-firebase-authenticate)
 
 # express-firebase-authenticate
 Express middleware for Firebase Cloud Functions that extracts user data from a Firebase auth token.
