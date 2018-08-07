@@ -1,4 +1,4 @@
-const bearerToken = require('express-bearer-token')
+const bearerToken = require('express-bearer-token')()
 const firebaseAdmin = require('firebase-admin')
 
 module.exports = async (req, res, next) => {
