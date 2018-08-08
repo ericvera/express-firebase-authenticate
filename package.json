@@ -1,6 +1,6 @@
 {
   "name": "express-firebase-authenticate",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Express middleware for Firebase Cloud Functions that extracts user data from a Firebase auth token.",
   "main": "index.js",
   "license": "MIT",
