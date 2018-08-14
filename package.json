@@ -19,10 +19,13 @@
     "express-bearer-token": "^2.2.0"
   },
   "peerDependencies": {
-    "firebase-admin": "^5.13.1"
+    "firebase-admin": "~6.0"
   },
   "prettier": {
     "semi": false,
     "singleQuote": true
+  },
+  "devDependencies": {
+    "@firebase/app-types": "~0.3"
   }
 }
